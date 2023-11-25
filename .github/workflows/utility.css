@@ -1,1 +1,7 @@
-
+*{
+    scroll-behavior: smooth;
+}
+.sectionmarpad{
+    
+    padding: 25px;
+}
